@@ -1,6 +1,6 @@
 
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left">
-<center>
+
+
   
   
 
@@ -13,24 +13,23 @@ ____Programming And Memes____
 
 
 <a href="https://github.com/Shuvo15/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Azim-vau?label=Followers&color=blue&style=flat-square"></a>
+
 <a href="https://github.com/Shuvo15/termux-style/stargazers/">
   <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Azim-Vau/fcpro.svg"/>
+    
+  <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
+  
   </a>
   <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Azim-Vau/fcpro.svg"/>
-  </a>
-  <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Azim-Vau/fcpro.svg"/>
+    
   </a>
 <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Azim-Vau/fcpro.svg"/>
+    
   </a>
 
-<a href="https://github.com/Shuvo15/Bangladeshi-Old-Ido">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Azim-vau/fcpro.svg"/> <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Azim-vau/fcpro.svg"/>
+<a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
+     <a href="https://github.com/Shuvo15/Bangladeshi-Old-Id">
+    
   </a>
 </div>
 
